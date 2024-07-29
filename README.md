@@ -1,6 +1,6 @@
 # Real-Time Speech Recognition
 
-![Screenshot](IMAGE_LOCATION)
+![Screenshot](https://github.com/Dynamo-Dream/Real-Time-Speech-Recognition-Chrome-Extension/blob/main/image/Speech%20Reco.png)
 
 ## Description
 Real-Time Speech Recognition is a Chrome extension designed to transcribe audio from YouTube videos, online meetings, and other web-based audio sources in real-time. This tool is perfect for anyone who needs accurate and instantaneous transcriptions for study, work, or personal use. The extension captures audio, processes it in real-time, and provides downloadable transcriptions, enhancing accessibility and productivity.
